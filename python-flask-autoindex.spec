@@ -10,6 +10,7 @@ URL:		http://github.com/sublee/flask-autoindex
 Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{version}.tar.gz
 BuildArch:	noarch
 %py_requires -d
+BuildRequires:	python-flask
 Requires:	python-flask
 Requires:	python-flask-silk
 
