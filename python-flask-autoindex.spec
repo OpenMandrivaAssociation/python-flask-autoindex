@@ -34,3 +34,11 @@ more awesome!
 %{python_sitelib}/*.egg-info/
 %{python_sitelib}/flaskext/*.py*
 %{python_sitelib}/flaskext/autoindex
+
+
+%changelog
+* Fri Aug 17 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.4.1-1
++ Revision: 815255
+- Import python-flask-autoindex
+- Import python-flask-autoindex
+
