@@ -2,8 +2,9 @@
 
 Name:		python-flask-autoindex
 Version:	0.4.1
-Release:	3
+Release:	4
 Summary:	A mod_autoindex for Flask
+Group:		Development/Python
 License:	BSD
 URL:		http://github.com/sublee/flask-autoindex
 Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{version}.tar.gz
