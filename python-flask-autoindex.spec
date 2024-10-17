@@ -6,7 +6,7 @@ Release:	4
 Summary:	A mod_autoindex for Flask
 Group:		Development/Python
 License:	BSD
-URL:		http://github.com/sublee/flask-autoindex
+URL:		https://github.com/sublee/flask-autoindex
 Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	python-devel
